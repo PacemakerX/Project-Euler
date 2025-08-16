@@ -39,27 +39,24 @@ Solutions are written in:
 git clone https://github.com/PacemakerX/Project-Euler.git
 ```
 
-2. Compile and run solutions using the provided scripts in `scripts/`.
+## File Structure
+
+
+```sh
+├── 📁 scripts/
+│   ├── 🐚 run.sh                # to run a.cpp file
+│   └── 🐚 setupCpp.sh      # helps with the initial setup of the working directory
+├── 📁 solutions/               # stores all the solution
+├── 📖 README.md
+├── 📁 outputs/ 🚫 (auto-hidden)
+└── ⚙️ a.cpp 🚫 (auto-hidden)
+```
 
 ## Project Euler on HackerRank
 
 Solve and explore Project Euler problems on HackerRank:
 
 [Project Euler Contest on HackerRank](https://www.hackerrank.com/contests/projecteuler/challenges)
-
-## Tech
-
-Solutions are written in:
-
-- **C++**
-
-## Usage
-
-1. Clone the repository:
-
-```sh
-git clone https://github.com/PacemakerX/codeForces-my-solutions.git
-```
 
 ## Connect with Me on Codeforces!
 
