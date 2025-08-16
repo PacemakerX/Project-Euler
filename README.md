@@ -44,9 +44,9 @@ git clone https://github.com/PacemakerX/Project-Euler.git
 
 ```sh
 ├── 📁 scripts/
-│   ├── 🐚 run.sh                # to run a.cpp file
+│   ├── 🐚 run.sh           # to run a.cpp file
 │   └── 🐚 setupCpp.sh      # helps with the initial setup of the working directory
-├── 📁 solutions/               # stores all the solution
+├── 📁 solutions/           # stores all the solution
 ├── 📖 README.md
 ├── 📁 outputs/ 🚫 (auto-hidden)
 └── ⚙️ a.cpp 🚫 (auto-hidden)
